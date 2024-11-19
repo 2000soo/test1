@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w0kTucTCkDs__AonHjVf-4" value=" +int carIdx &#xa; +String carName &#xa; +String carNickname &#xa; +String phone &#xa; +String carId &#xa; +String carPw &#xa; +String email &#xa; +String birthday &#xa; +Integer carStatus &#xa; +Date regDate &#xa; +Date modDate &#xa; +updatecIdx(int cIdx) &#xa; +updatePassword(String newPassword)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;labelBackgroundColor=none;" vertex="1" parent="w0kTucTCkDs__AonHjVf-1">
-          <mxGeometry y="40" width="300" height="180" as="geometry" />
+          <mxGeometry y="40" width="300" height="190" as="geometry" />
         </mxCell>
         <mxCell id="w0kTucTCkDs__AonHjVf-5" value="&lt;Repository&gt;&#xa;UserRepository" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="-547" width="440" height="137" as="geometry">
